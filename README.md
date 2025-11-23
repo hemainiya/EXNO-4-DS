@@ -291,6 +291,7 @@ X = df.drop(columns=['SalStat'])
 <img width="1373" height="1049" alt="image" src="https://github.com/user-attachments/assets/5a6debf0-be6f-4370-b570-50819157e177" />
 
 <img width="311" height="188" alt="image" src="https://github.com/user-attachments/assets/84429465-f542-4627-a2f7-acebc64eeb0f" />
+
 # RESULT:
-    The given data and perform Feature Scaling and Feature Selection process and save the data to a file is succussfully verified.
+   The given data and perform Feature Scaling and Feature Selection process and save the data to a file is succussfully verified.
 
